@@ -8,3 +8,5 @@ def solution(arr, divisor):
     else:
             answer.sort()
     return answer
+
+#나누어 떨어지는수
